@@ -1,0 +1,17 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/coin/coin",
+    "pages/logs/logs"
+    ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "重大决策发生器(伪)",
+    "navigationBarTextStyle": "black",
+    "enablePullDownRefresh": true,
+    "backgroundColor": "$ffffff"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}
